@@ -7,7 +7,7 @@ Chennaipy, please visit our [website](http://chennaipy.org).
 The content will be arranged in reverse chronological order
 
 ## Table of contents
--2016
+- 2016
   - [January](#january-23rd-2016)
 - 2015
   - [September](#september-26th-2015)
