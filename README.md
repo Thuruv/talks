@@ -7,7 +7,8 @@ Chennaipy, please visit our [website](http://chennaipy.org).
 The content will be arranged in reverse chronological order
 
 ## Table of contents
-
+-2016
+  - [January](#january-23rd-2016)
 - 2015
   - [September](#september-26th-2015)
   - [August](#august-22th-2015)
@@ -21,6 +22,52 @@ The content will be arranged in reverse chronological order
 - 2014
   - [December](#december-20th-2014)
   - [November](#november-29th-2014)
+
+### 2016
+
+###[January](#january-23rd-2016)
+
+### Environment for a Python Dev
+
+Speaker: Dinesh Kumar
+
+Working with different project with different python versions,
+debugging module issues, Introduction to development
+environment/provisioning. Have a look at: pyenv-virtualenv, pip,
+modules, site, ansible.
+
+### Algorithmic analysis and Time complexity in Python
+
+
+
+This talk will be on the following lines:
+
+  * Measuring the execution time of algorithms in Python - simple
+    addition program
+
+  * Big O Notation
+
+  * Time complexity of Python Operations.
+- Speaker: Ashok Govindarajan
+- [Slides](https://www.slideshare.net/secret/qA2HuxRkemDYgg)
+
+### Debugging the easy way with python debugger
+
+An easy replacement of "print" statement is python debugger. It is
+command line utility. Getting more insight in complex code is piece of
+cake with PDB, since you interact directly with code in running
+state. It is an essential zen tool for every python developer.
+
+- Speaker: Gaurav Sehrawat
+
+### Offset Pagination in Databases
+
+Offset pagination is a popular technique to get split sets of data
+from a database. While made convenient with the OFFSET clause in Sql,
+it comes with its own problems. We take a look at the problems created
+by Offset pagination, and the possible solutions.
+
+- Speaker: Abhishek Yadav
 
 ### 2015
 
